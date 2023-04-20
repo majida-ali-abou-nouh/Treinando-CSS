@@ -1,0 +1,46 @@
+/* Tags */
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    color: #663399;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    text-decoration: none;
+    color: hsl(161, 65%, 12%);
+}
+
+ul {
+    border: 2px solid #d87093;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+/* IDs */
+#login {
+    background-color: rgb(10, 78, 10);
+    color: #f0f8ff;
+}
+
+#registro{
+    background-color: rgb(10, 78, 10);
+    color: #f0f8ff;   
+}
+
+/* Classes */
+.copy {
+    text-align: center;
+    font-size: 10px;
+}
+
+.container {
+    text-align: center;
+}
